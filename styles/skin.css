@@ -1,0 +1,26 @@
+body{
+    background-color: blanchedalmond;
+
+}
+.container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgba(165, 42, 42, 0.848);
+    color: whitesmoke;
+    padding: 20px;
+    padding-right: 40px;
+    border-radius: 10px;
+}
+.input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+    display: block;
+    box-sizing: border-box;
+}
+input{
+    width: 100%;
+}
