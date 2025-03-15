@@ -9,11 +9,6 @@
    <img src="./src/img/tela.png" alt ="Tela da aplicação"/>
 </p>
 
-<p align="center">
-  <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>;
-  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>;
-</p>
-
 ## :clipboard: Sobre o Projeto
 
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
