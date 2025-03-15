@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    
+    <img src="./src/img/tela.png" alt="tela da aplicação"/>
 </p>
 
 <p align="center">
