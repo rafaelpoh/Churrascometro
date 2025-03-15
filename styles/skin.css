@@ -1,16 +1,20 @@
 body{
-    background-color: blanchedalmond;
+    background: linear-gradient(to right, #ffebcd, #ff4800);
+    display: flexbox;
+    justify-content: center;
+    height: 95vh;
 
 }
 .container{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    max-width: 300px;
+    max-width: min-content;
+    height: 100%;
     margin: auto;
     background-color: rgba(165, 42, 42, 0.848);
     color: whitesmoke;
     padding: 20px;
-    padding-right: 40px;
     border-radius: 10px;
+    box-sizing: border-box;
 }
 .input{
     width: 100%;
@@ -23,4 +27,12 @@ body{
 }
 input{
     width: 100%;
+}
+img{
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+h1{
+    margin: 0;
 }
