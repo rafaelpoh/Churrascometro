@@ -6,7 +6,11 @@
 </div>
 
 <p align="center">
+<<<<<<< HEAD
     <img src="./src/img/tela.png" alt="tela da aplicação"/>
+=======
+   ![image](https://github.com/user-attachments/assets/31fd0ed6-2393-4cef-81f4-fac9685aa5f8)
+>>>>>>> eca8c186c882dd041d1fdfe7274ed73d7484872b
 </p>
 
 <p align="center">
